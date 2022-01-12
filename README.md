@@ -3,7 +3,10 @@ Hi there! 👋
 I'm Renat 😃! I grew up hugging computers in my sleep. But only recently got very serious about becoming JS Dev 👨‍💻.
 
 I regularly hone my coding skills 🥋 and I have this rating on Codewars:
-https://www.codewars.com/users/Taneros/badges/large and very soon I'll become ninja 
+
+URL:https://www.codewars.com/users/Taneros/badges/large
+
+and very soon I'll become ninja 
 
 Here are some of my **Projects** I worked on:
 
