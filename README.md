@@ -1,11 +1,11 @@
 Hi there! 👋 
 
-I'm Renat 😃! I grew up hugging computers in my sleep. But only recently got very serious about becoming JS Dev 👨‍💻.
+I'm Renat 😃! I grew up hugging computers in my sleep. But only recently I got very serious about becoming JS Dev 👨‍💻.
 
-I regularly hone my coding skills 🥋 and I have this rating on Codewars:
+I regularly hone my coding skills 🥋 and below is my rating on Codewars:
 
 [![codewars](https://www.codewars.com/users/Taneros/badges/large "codewars")](https://www.codewars.com/users/Taneros/badges/large)
-and very soon I'll become ninja 🐱‍👤.
+and very soon I'll become JS ninja 🐱‍👤.
 
 This is my stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +19,6 @@ Here are some of my **Projects** I worked on:
 - Browser background app (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/momentum/
 - Game: Dress the Christmas Tree (TS, CSS, HTML) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/christmas-task-game/
 
-Here's my full resume:
+Here's my full CV:
 
 https://docs.google.com/document/d/1HksytUK7NAwc8ZCiCkXnyuxkVC0WBqUQh9gGpTvCniQ/edit?usp=sharing
