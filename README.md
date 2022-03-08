@@ -21,4 +21,4 @@ Here are some of my **Projects** I worked on:
 
 Here's my full CV:
 
-https://docs.google.com/document/d/1HksytUK7NAwc8ZCiCkXnyuxkVC0WBqUQh9gGpTvCniQ/edit?usp=sharing
+https://docs.google.com/document/d/1mmGz8vQ6efwpzCsUHHbvheAnzRfsBK5JHfCriWJUXrg/edit?usp=sharing
