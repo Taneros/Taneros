@@ -16,7 +16,7 @@ This is my stack:
 
 Here are some of the **Projects** that I've been working on recently:
 
-- Landing site for Louvre Museum link (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFEPRESCHOOL/museum/
+- Landing site for Louvre Museum link (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/museum-dom/
 - Browser background app (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/momentum/
 - Game: Dress the Christmas Tree (TS, CSS, HTML) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/christmas-task-game/
 - A Trello Clone, Crello (ReactJS, PostgreSQL, OAuth) https://crello-rsclone.herokuapp.com/
