@@ -16,13 +16,11 @@ This is my stack:
 
 Here are some of the **Projects** that I've been working on recently:
 
-- Landing site for Louvre Museum link (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/museum-dom/
-- Browser background app (HTML, CSS, JS) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/momentum/
-- Game: Dress the Christmas Tree (TS, CSS, HTML) https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/christmas-task-game/
-- A Trello Clone, Crello (ReactJS, PostgreSQL, OAuth) https://crello-rsclone.herokuapp.com/
+- Landing site for Louvre Museum (HTML, CSS, JS) [link](https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/museum-dom/ 'Link') [git](https://github.com/Taneros/museum-dom 'git')
+- Browser background app (HTML, CSS, JS) [link](https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/momentum/ 'Link') [git](https://github.com/Taneros/momentum 'git')
+- Game: Dress the Christmas Tree (TS, CSS, HTML, OOP)  [link](https://rolling-scopes-school.github.io/taneros-JSFE2021Q3/christmas-task-game/ 'Link') [git](https://github.com/Taneros/christmas-task 'git')
+- A Trello Clone, Crello (ReactJS, PostgreSQL, OAuth)  [link](https://crello-rsclone.herokuapp.com/ 'Link') [git](https://github.com/whirligigY/trello-clone/tree/main 'git')
 
 And many more tiny pet-projects that you can find in my github repos.
 
-Here's my full CV:
-
-https://docs.google.com/document/d/1mmGz8vQ6efwpzCsUHHbvheAnzRfsBK5JHfCriWJUXrg/edit?usp=sharing
+Here's my full CV: [link](https://docs.google.com/document/d/1mmGz8vQ6efwpzCsUHHbvheAnzRfsBK5JHfCriWJUXrg/edit?usp=sharing 'link')
