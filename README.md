@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm Renat 😃. A javascript, mostly front-end Dev 👨‍💻 who is very serious about becoming a senior Dev soon enough.
 
-I regularly hone my coding skills 🥋 and very soon I'll become JS ninja 🐱‍👤. Here is my rating on Codewars:
+I regularly hone my coding skills 🥋, apart from work, to be able to smash any coding problem into pieces like true JS ninja 🐱‍👤. Here is my rating on Codewars:
 
 [![codewars](https://www.codewars.com/users/Taneros/badges/large "codewars")](https://www.codewars.com/users/Taneros/badges/large)
 
