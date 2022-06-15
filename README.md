@@ -1,11 +1,11 @@
 Hi there! 👋 
 
-I'm Renat 😃. An aspiring JS Dev 👨‍💻 who is very serious about becoming a senior Dev soon enough.
+I'm Renat 😃. A javascript, mostly front-end Dev 👨‍💻 who is very serious about becoming a senior Dev soon enough.
 
-I regularly hone my coding skills 🥋 and here is my rating on Codewars:
+I regularly hone my coding skills 🥋 and very soon I'll become JS ninja 🐱‍👤. Here is my rating on Codewars:
 
 [![codewars](https://www.codewars.com/users/Taneros/badges/large "codewars")](https://www.codewars.com/users/Taneros/badges/large)
-and very soon I'll become JS ninja 🐱‍👤.
+
 
 This is my stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
