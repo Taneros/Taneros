@@ -23,4 +23,4 @@ Here are some of the **Projects** that I've been working on recently:
 
 And many more tiny pet-projects that you can find in my github repos.
 
-Here's my full CV: [link](https://docs.google.com/document/d/1mmGz8vQ6efwpzCsUHHbvheAnzRfsBK5JHfCriWJUXrg/edit?usp=sharing 'link')
+Here's my full CV: [link](https://docs.google.com/document/d/1N3HXmzZawJsJQuCbZbTWzZiILi47BsBvA-H4N9WEujo/edit?usp=sharing 'link')
