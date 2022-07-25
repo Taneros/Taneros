@@ -1,8 +1,8 @@
-Hi there! 👋 
+Hi there! 👋
 
-I'm Renat 😃. A javascript, mostly front-end Dev 👨‍💻 who is very serious about becoming a senior Dev soon enough.
+I'm **Renat** 😃. A javascript (mostly front-end) dev 👨‍💻 who is very serious about becoming a senior dev one day.
 
-I regularly hone my coding skills 🥋, apart from work, to be able to smash any coding problem into pieces like true JS ninja 🐱‍👤. Here is my rating on Codewars:
+I love to hone my coding skills 🥋 to make sure I can smash any coding problem into pieces like a true **JS ninja** 🐱‍👤. Here is my rating on Codewars:
 
 [![codewars](https://www.codewars.com/users/Taneros/badges/large "codewars")](https://www.codewars.com/users/Taneros/badges/large)
 
