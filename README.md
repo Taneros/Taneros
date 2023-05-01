@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm **Renat** 😃. A javascript (mostly front-end) dev 👨‍💻 who is very serious about becoming a senior dev one day.
+I'm **Renat** 😃. A javascript developer 👨‍💻.
 
 I love to hone my coding skills 🥋 to make sure I can smash any coding problem into pieces like a true **JS ninja** 🐱‍👤. Here is my rating on Codewars:
 
